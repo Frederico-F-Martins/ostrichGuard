@@ -2,6 +2,10 @@
 
 ![bannerOstrichstudy](https://user-images.githubusercontent.com/56032914/130114721-cc816e20-f764-4561-8623-4c52e26026dd.png)
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Frederico-F-Martins/ostrichGuard)
+![GitHub](https://img.shields.io/github/license/Frederico-F-Martins/ostrichGuard)
+[![DOI](https://zenodo.org/badge/398021379.svg)](https://zenodo.org/badge/latestdoi/398021379)
+
 **A Scapy-based sniffer which logs ARP requests and attacks blacklisted IPs.**
 
 An idea for simple network protection against naive incursions.
