@@ -11,7 +11,7 @@ An idea for simple network protection against naive incursions.
 
 1-  Install the Scapy library
 
-> pip install scrapy
+> pip install scapy
 
 2-  Edit the script to insert whitelisted MAC Addresses:
 
